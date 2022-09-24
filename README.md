@@ -2,15 +2,13 @@
 
 Construct week project
 
-# Unit 5  Project
-
 - This is an time tracking website clone that we made during the construct week at Masai School. You can put your daily tasks to do and also you can track your tasks by the website.
 - Also website contains functionality for the live tracking for cycling and running. You can use this features after successfully login. 
 - It was completed within 5 days. We created a good responsive UI. So, you can use this website through phone and tablet also.
 
 ## 🔧 Technologies & Tools
 
-[![Tools](https://skillicons.dev/icons?i=html,css,javascript,redux,react,tailwind,github,netlify&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=html,css,javascript,github,netlify&theme=dark)](https://skillicons.dev)
  <img src="https://pbs.twimg.com/profile_images/1510602617700950021/K4IoVubu_400x400.jpg" alt="leaflet" width="45" height="45"/>
 
 
